@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://png.pngtree.com/png-clipart/20220510/original/pngtree-server-farm-banner-system-administration-png-image_7696566.png" alt="Banner Image" width="100%" />
+  <img src="https://github.com/FanoyG/FanoyG/blob/2d8a43e8e6954b9e8ce98a06d42d773c89e34dfe/images/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png" alt="Banner Image" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Adil Khan</h1>
