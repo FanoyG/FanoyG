@@ -19,7 +19,7 @@
 
 ---
 
-<image src="https://png.pngtree.com/png-clipart/20230914/original/pngtree-computer-programmer-png-image_12147261.png" alt="coding" align="right" width=400>
+<image src="https://github.com/FanoyG/FanoyG/blob/f0d63856d0d25a04593a86171acdfcd778a76f03/images/Screenshot%202025-03-10%20133852.png" alt="coding" align="right" width=280 marg-top=300>
 
 ---
 
