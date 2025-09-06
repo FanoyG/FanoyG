@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="images/Black and Beige Modern Handwriting Professional Business LinkedIn Banner.png" alt="Banner Image" width="100%" />
+  <img src="https://github.com/FanoyG/FanoyG/blob/main/images/github-header-banner.png" alt="Banner Image" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Adil Khan (aka Fanoy)</h1>
 <h3 align="center">🛡️ Cybersecurity Explorer | Builder by Doing | India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adil-khan-9b9860282/" target="_blank">
+  <a href="https://www.linkedin.com/in/adil-khan5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/FanoyG" target="_blank">
