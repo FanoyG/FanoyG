@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Adil Khan (aka Fanoy)</h1>
-<h3 align="center">🚀 Python & Cloud Automation Explorer | Builder by Doing | India 🇮🇳</h3>
+<h3 align="center">🛡️ Cybersecurity Explorer | Builder by Doing | India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adil-khan-9b9860282/" target="_blank">
@@ -23,59 +23,56 @@
 
 <image src="https://github.com/FanoyG/FanoyG/blob/f0d63856d0d25a04593a86171acdfcd778a76f03/images/Screenshot%202025-03-10%20133852.png" alt="coding" align="right" width=290 style="margin-top: 10px" />
 
-💡 I don’t just learn to know — I learn to **build**.  
-My journey started with confusion and theory overload. Everything changed when I jumped into **AWS hands-on** and discovered the power of **Python automation**.
+💡 My journey in tech has been fueled by **curiosity**.  
+I started by exploring **different domains** — Python automation, cloud (AWS, Terraform), scripting, and backend projects. Each step gave me a new perspective and skillset.  
 
-🔭 Currently building tools like **SkreScan** and **Secrets Monitoring System** to solve real-world cloud security and automation challenges.
+But after all this exploration, I finally found where my curiosity meets purpose: **Cybersecurity**.  
 
-🎯 My goal? Build tools that save time, work while I sleep, and help others — even when I’m offline.
+🔭 I’ve recently earned **Windows Fundamentals** and **Networking Fundamentals** badges from *LetsDefend* and started building my own **Windows Security Lab** and **SOC-style projects** to practice real-world defense skills.  
 
----
-
-## 🚀 Skills & Tools I Use
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.icons8.com/plasticine/100/bash.png" width="45" height="45" alt="Bash"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://img.icons8.com/nolan/64/flask.png" width="45" height="45" alt="Flask"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.icons8.com/nolan/64/amazon-web-services.png" width="45" height="45" alt="AWS"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Automation" target="_blank">
-    <img src="https://www.svgrepo.com/show/331794/automation.svg" width="40" height="40" alt="Automation"/>
-  </a>
-</p>
+🎯 My focus now is clear: **grow as a SOC Analyst / Cybersecurity Intern**, while leveraging my past automation & cloud experience to bring unique value to defense.  
 
 ---
 
-## 📚 What I’ve Learned (So Far)
+## 🚀 Skills & Tools (Exploration → Cybersecurity Focus)
 
+**Previously Explored:**
 - ✅ Python scripting and automation fundamentals  
 - ✅ REST API integration basics  
-- ✅ Linux and Bash commands for DevOps  
-- ✅ Cloud fundamentals via **AWS Educate Cloud 101**  
-- ✅ GitHub Actions & basic CI/CD concepts  
+- ✅ Linux and Bash for DevOps  
+- ✅ Cloud fundamentals (AWS, Terraform, GitHub Actions)  
+- ✅ Backend experiments with Flask  
+
+**Now Focusing On:**
+- 🛡️ Windows Security & Event Log Analysis  
+- 🛡️ Networking basics (OSI, TCP/IP, VPNs, Firewalls)  
+- 🛡️ SOC Analyst mindset (detect → investigate → respond)  
+- 🛡️ Hands-on projects (Attack & Defense Labs)  
+- 🛡️ Continuous learning (LetsDefend, TryHackMe, Practical Labs)  
+
+---
+
+## 📚 Featured Projects
+
+- ⚡ **Automation & Cloud (Exploration Phase):**  
+  - *SkreScan* → Python-based scanner  
+  - *Secrets Monitoring System* → Cloud-focused automation tool  
+  - Terraform experiments for AWS  
+
+- 🛡️ **Cybersecurity (Current Focus):**  
+  - *Windows Security Lab – Analyst Challenge* (in progress)  
+  - *SOC-Style Projects* (planned: attack & defense labs with VMs)  
+  - *Hands-on detections & reports* (to be shared as blogs/repos)  
 
 ---
 
 ## 🔮 Future Goals
 
-- ☁️ Master AWS Core Services (EC2, S3, IAM, VPC, etc.)  
-- ⚙️ Automate cloud operations with Python and Boto3  
-- 📈 Share filtered roadmaps, no-fluff learning guides, and hands-on content  
-- 💼 Land freelance/internship opportunities and support my education  
+- ☁️ Strengthen core cybersecurity labs (Windows, Linux, Networking)  
+- 🛡️ Build an **Attack vs Defense VM Lab**  
+- 📑 Publish project walkthroughs like mini CTF reports  
+- 💼 Land a **Cybersecurity Internship / SOC Analyst role**  
+- 🌍 Share filtered roadmaps & beginner-friendly guides for others  
 
 ---
 
@@ -94,13 +91,13 @@ My journey started with confusion and theory overload. Everything changed when I
 ## 📬 Connect & Collaborate
 
 💡 I’m open to:
-- Junior-level freelance work  
-- Cloud automation projects  
-- Learning & building with like-minded people  
+- Entry-level cybersecurity / SOC Analyst opportunities  
+- Collaborating on beginner-friendly security projects  
+- Sharing and learning with like-minded people  
 
 📧 Email: [adilkhan601782@gmail.com](mailto:adilkhan601782@gmail.com)  
 📡 LinkedIn: [Connect with Me](https://www.linkedin.com/in/adil-khan-9b9860282/)  
 
 ---
 
-<p align="center">✨ Made with passion and purpose by Adil Khan (Fanoy) ✨</p>
+<p align="center">✨ From exploring tech → to choosing cybersecurity, this is just the beginning ✨</p>
