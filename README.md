@@ -2,7 +2,7 @@
   <img src="https://github.com/FanoyG/FanoyG/blob/main/images/github-header-banner.png" alt="Banner Image" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Adil Khan (aka Fanoy)</h1>
+<h1 align="center">Hi 👋, I'm Adil Khan (aka FanoyG)</h1>
 <h3 align="center">🛡️ SOC Analyst in Progress | Blue Team & Defensive Security | India 🇮🇳</h3>
 
 <p align="center">
