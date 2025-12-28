@@ -179,7 +179,13 @@ Right now, I’m focused on becoming a **Tier-1 SOC Analyst**, strengthening:
 </a>
 <b>Cyber Kill Chain</b>
 </td>
-<td colspan="3"></td>
+<td align="center">
+<a href="https://app.letsdefend.io/my-rewards/detail/069408a256b044e2b512e2f5267cbedc">
+<img src="./Badges/brute-force-badge-48517643-fe50-4a92-b328-506c4208a6b1.png" width="125"><br>
+</a>
+<b>Brute Force</b>
+</td>
+<td colspan="2"></td>
 </tr>
 </table>
 
