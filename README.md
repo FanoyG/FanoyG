@@ -1,282 +1,233 @@
-<p align="center">
-  <img src="https://github.com/FanoyG/FanoyG/blob/main/images/github-header-banner.png" alt="Banner Image" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Adil Khan (aka FanoyG)</h1>
-<h3 align="center">🛡️ SOC Analyst in Progress | Blue Team & Defensive Security | India 🇮🇳</h3>
+# Think. Build. Ship. Fix. Repeat.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adil-khan5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:adilkhan601782@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOC-Blue%20Team-green?style=for-the-badge" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Engineer+who+builds+%26+ships+real+products;Cloud+%2B+Frontend+%2B+Python+Backend;I+understand+%E2%86%92+think+%E2%86%92+build+%E2%86%92+ship;I+don't+memorize+solutions.+I+find+them.)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-khan-cloud/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://fanoyg.github.io)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adilkhan601782@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=FanoyG&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/FanoyG)
+
+</div>
 
 ---
 
-## 📌 About Me
+```python
+class Adil:
+    def __init__(self):
+        self.name       = "Adil Khan"
+        self.alias      = "FanoyG"
+        self.location   = "Bihar, India 🇮🇳"
+        self.approach   = ["Understand", "Think", "Build", "Ship", "Troubleshoot"]
 
-<img src="./images/Screenshot 2025-03-10 133852.png" alt="coding" align="right" width="300px" height="415px" />
+    def what_i_do(self):
+        return "I don't memorize solutions. I find them — then make sure the problem can't come back."
 
-I’m a **hands-on cybersecurity learner** building practical, SOC-ready skills through real-world labs, defensive security projects, and structured blue-team challenges.
-
-My journey started with:
-- Python automation  
-- Cloud & AWS exploration  
-- DevOps fundamentals  
-
-But everything led me to my real passion → **Cybersecurity & Blue Teaming**.
-
-Right now, I’m focused on becoming a **Tier-1 SOC Analyst**, strengthening:
-- Windows Event Log & Sysmon analysis  
-- Network fundamentals & packet understanding  
-- SOC investigation workflows  
-- Incident-style lab projects
+    def available_for(self):
+        return ["Freelance projects", "Remote roles", "Building things that matter"]
+```
 
 ---
 
-## 🏅 Badges & Learning Progress
-1. **🛡️ LetsDefend SOC Analyst Badges**
-<table align="center" border="0" cellpadding="15" cellspacing="0" style="border: none;">
+<div align="center">
+
+## ⚡ Who I Am
+
+</div>
+
+I'm a **builder** — not a tutorial follower.
+
+When I hit a problem I don't know, I figure it out.
+When something breaks, I trace it — not panic.
+When a cloud bill spikes, I build systems to fix it — not just explain it.
+
+My stack spans **frontend, backend, and cloud infrastructure** — because real products need all three, and I got tired of waiting for three different people to build one thing.
+
+> *"I understand → think → build → ship → and fix what breaks."*
+
+---
+
+<div align="center">
+
+## 🛠️ What I Build With
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20Lambda%20%7C%20IAM%20%7C%20VPC%20%7C%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🐍 Backend & Automation
+
+![Python](https://img.shields.io/badge/Python-Automation%20%7C%20Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%7C%20Bash-CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5%20%7C%20CSS3-Semantic%20%26%20Responsive-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### ⚙️ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker%20%7C%20Kubernetes-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 What I've Shipped
+
+</div>
+
+<table>
 <tr>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/8ef15c57-36f9-4b78-8d13-5923136055b5">
-<img src="./Badges/student-badge-34f9d1de-f4a6-410d-832b-8a2cac5621e8.webp" width="125"><br>
-</a>
-<b>Cybersecurity Student</b>
+<td width="50%">
+
+### 💰 AWS Cost Explorer Tool
+> *"Overwhelmed by your cloud bill? Here's what you need."*
+
+A cost visibility tool that detects AWS spending anomalies and highlights optimization opportunities — helping teams catch issues before costs spiral out of control.
+
+**Stack:** FastAPI · AWS Cost Explorer API · Python · Tailwind
+
+**Impact:** Designed to reduce unnecessary cloud spend and improve real-time cost awareness for teams managing live AWS infrastructure.
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Type](https://img.shields.io/badge/Type-Real%20Product-6366F1?style=flat-square)
+
+`Live link dropping soon` 🔥
+
 </td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/cc0b47a9-467f-4eae-aef9-e6371ae70d7a">
-<img src="./Badges/win101-avatar-9f584b0b-6442-498f-829b-5af622742b9f.webp" width="125"><br>
-</a>
-<b>Windows 101</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/7f1f3701-78d6-466a-8c33-14f8610cf68f">
-<img src="./Badges/badge-linux-101-01963665-e81b-45f9-aae0-f1a1b63392cb.webp" width="125"><br>
-</a>
-<b>Linux 101</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/e27fa32c-c285-4667-b520-e30ccf2dc4e4">
-<img src="./Badges/network-fundamentals-badge-avatar-f3b45304-987d-4d47-87d9-291c0d288238.webp" width="125"><br>
-</a>
-<b>Network Fundamentals</b>
+<td width="50%">
+
+### 🔐 Secure Serverless Website + CI/CD
+
+Zero manual deployments. Built with S3 + CloudFront + Origin Access Control + GitHub Actions pipeline. Integrated Lambda + DynamoDB backend. Debugged IAM misconfigs and CORS issues independently end to end.
+
+**Stack:** AWS · GitHub Actions · Lambda · DynamoDB · CloudFront
+
+**Impact:** Reduced manual release steps by ~80% and eliminated inconsistent deployments through full CI/CD automation.
+
+![AWS](https://img.shields.io/badge/AWS-Deployed-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+[→ View Project](https://rebrand.ly/secure-serverless-website)
+
 </td>
 </tr>
 <tr>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/2a165902-25aa-49ee-bfd3-c5a6b7257881">
-<img src="./Badges/network-fun-2-badge-c5c0069a-d7d3-46ba-ac0c-c7f48fe2e908.webp" width="125"><br>
-</a>
-<b>Network Fundamentals 2</b>
+<td width="50%">
+
+### 🛡️ AWS Threat Detection Pipeline
+
+Monitoring pipeline processing **1,000+ audit events/day** in a simulated cloud environment. Identified IAM risks including wildcard permissions, long-lived credentials, and insecure trust policies across 3 distinct risk categories.
+
+**Stack:** CloudTrail · CloudWatch Logs · SNS · Python
+
+**Impact:** Simulates real-world cloud security auditing — improves visibility into AWS resource activity and overall security posture.
+
+![Security](https://img.shields.io/badge/Security-IAM%20Detection-E11D48?style=flat-square&logo=amazonaws&logoColor=white)
+
+[→ View Project](https://rebrand.ly/aws-iam-detection)
+
 </td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/dd5bdd2d-b7ce-4e99-9f16-aaf56e2cc154">
-<img src="./Badges/network-protocols-badge-94c1af12-7d74-48c6-bb47-8614261e855c.webp" width="125"><br>
-</a>
-<b>Network Protocols</b>
+<td width="50%">
+
+### 🐳 Containerized App — Docker & Kubernetes
+
+Wrote a custom Dockerfile using nginx:alpine and authored Kubernetes manifests (Deployment + NodePort Service) from scratch. Implemented label selectors for traffic routing and managed full container lifecycle end to end.
+
+**Stack:** Docker · Kubernetes · Nginx · Minikube
+
+**Impact:** Debugged pod scheduling failures and NodePort exposure issues using `kubectl describe` and `kubectl logs` — diagnosed and resolved independently.
+
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white)
+![K8s](https://img.shields.io/badge/K8s-Deployed-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+[→ View Project](https://github.com/FanoyG/containerized-web-app-docker-kubernetes)
+
 </td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/9b7ba9cc-bf78-4f14-80a4-2176d30956d3">
-<img src="./Badges/network-protocols-2-badge-avatar-9b1798cb-a04f-47a4-b60f-4bf585b2c8bc.webp" width="125"><br>
-</a>
-<b>Network Protocols 2</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/b11545ec-6945-47ef-a425-caf1e1fc1df3">
-<img src="./Badges/wireshark-avatar-73ca2edf-93b5-4cb3-b1b4-472953d16fe4.webp" width="125"><br>
-</a>
-<b>Wireshark Expert</b>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/8ae666bf-1570-44e1-bdf6-9d62a7d12083">
-<img src="./Badges/avatar-log-badge-26f2fa0d-5256-490f-92be-d34edd73227e.webp" width="125"><br>
-</a>
-<b>Network Analyzer</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/8e20baa2-0f3a-466a-b9c3-a886d19d6ecd">
-<img src="./Badges/how-to-siem-badge.webp" width="125"><br>
-</a>
-<b>SIEM Investigation</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/fd9c08f4-42d5-498c-9a88-c0e830001fda">
-<img src="./Badges/first-badge-6529e305-65c7-41fe-a929-c728f1bee986.webp" width="125"><br>
-</a>
-<b>1st Alert Solved</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/5dd01a15-1589-45b4-b6fb-e63e218ff281">
-<img src="./Badges/lionv1_pk4WuxR-1d840a1a-5d5a-4440-8faf-3a55cf7b5f30.webp" width="125"><br>
-</a>
-<b>5 Alerts Master</b>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/529c1377-b357-4786-871b-23ab6ba4f1e7">
-<img src="./Badges/mitre-badge-2-f8edfcce-62c1-4170-95cf-af5fd56562d0.webp" width="125"><br>
-</a>
-<b>MITRE ATT&CK</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/606c21a6-6aa6-4427-be9d-4fa038014b82">
-<img src="./Badges/port-scan-avatar-cdb607b2-2015-4d74-8136-b1aec1b6d626.webp" width="125"><br>
-</a>
-<b>Port Scan Detection</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/272d46dd-9a92-4fc2-982a-f3e89b846614">
-<img src="./Badges/shellshock-avatar_qzcN1wq-39412660-46cb-403b-9800-06d703b665d1.webp" width="125"><br>
-</a>
-<b>Shellshock Vuln</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/43aea89d-447e-4318-93a3-18a3121a3b8c">
-<img src="./Badges/malware-analysis-badge-63fefb51-8715-4ecb-bc9f-1ce42187bfad.webp" width="125"><br>
-</a>
-<b>Malware Analyst</b>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/c592e280-23ff-4d88-a933-54412010f6b8">
-<img src="./Badges/malicious-doc-avatar-cf10b106-7871-46c1-ae1c-2bc282af9e8c.webp" width="125"><br>
-</a>
-<b>Malicious Docs</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/52b148ae-2c0b-4dbe-96b3-47757258cf2a">
-<img src="./Badges/Cryptographer-avatar-42075aa5-9c2f-490f-8a63-01f64a4fe6bd.webp" width="125"><br>
-</a>
-<b>Cryptographer</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/2cec784d-043a-4d01-b54f-f3e9fd129251">
-<img src="./Badges/vba-malware-1b95b130-9278-4514-a58c-17ac727b1cbb.webp" width="125"><br>
-</a>
-<b>VBA Macro Expert</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/b8b36d7b-e3ab-455f-b811-710e1b893b2a">
-<img src="./Badges/xls-file-avatar-7e3a13d1-21ad-4593-a825-c62434dcd932.webp" width="125"><br>
-</a>
-<b>XLS Malware Detector</b>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/93e6f3e9-2f32-4ee5-87aa-fa8513ee8109">
-<img src="./Badges/ckc-badge-e7f2b13b-5a09-4340-93f1-de53c7e5e904.webp" width="125"><br>
-</a>
-<b>Cyber Kill Chain</b>
-</td>
-<td align="center">
-<a href="https://app.letsdefend.io/my-rewards/detail/069408a256b044e2b512e2f5267cbedc">
-<img src="./Badges/brute-force-badge-48517643-fe50-4a92-b328-506c4208a6b1.png" width="125"><br>
-</a>
-<b>Brute Force</b>
-</td>
-<td colspan="2"></td>
 </tr>
 </table>
 
-2. **☁️ AWS Cloud Badges**
-<table align="center" border="0" cellpadding="20" cellspacing="0" style="border: none;">
-<tr>
-<td align="center">
-<a href="https://www.credly.com/badges/1e120bfa-b256-4c9c-b669-f1b728f8b436/public_url">
-<img src="./Badges/aws-educate-getting-started-with-security-training-.png" width="120"><br>
-</a>
-<b>AWS Security Fundamentals</b>
-</td>
-<td align="center">
-<a href="https://www.credly.com/badges/232e5ee0-253d-4e00-a91d-685e80e63e65/public_url">
-<img src="./Badges/aws-educate-introduction-to-cloud-101-training-badg.png" width="120"><br>
-</a>
-<b>AWS Cloud 101</b>
-</td>
-</tr>
-</table>
 ---
 
-## 🛡️ Current Cybersecurity Focus
+<div align="center">
 
-**Building Real Skills In**
-- Windows Security & Telemetry  
-- Sysmon + Event Logs  
-- Elastic Stack (SIEM)  
-- Networking for Security  
-- SOC investigations  
-- Attack → Detect → Respond mindset  
-
----
-
-## 📚 Featured Work & Security Projects
-
-### 🛡️ Cybersecurity (Primary Focus)
-
-✔️ **Windows Security Telemetry + Elastic SIEM Pipeline**  
-✔️ **Malware Analysis Lab (FlareVM + Remnux + INetSim)**  
-✔️ **SOC-Style Investigation Labs & Case Studies**  
-✔️ **Hands-on Detection & Response Documentation**
-
-🔗 **Detailed project documentation (public):**
-- 🌐 Website (Learning & Labs Hub)  
-  👉 https://fanoyg.github.io  
-
-- 📝 Notion Security Portfolio  
-  👉 https://www.notion.so *(Replace with your actual Notion public link when ready)*
-
-> All projects include: architecture, troubleshooting, investigations, screenshots & SOC relevance.
-
----
-
-## ⚙️ Past Tech Exploration (Helps Me in Security)
-
-- Python scripting
-- REST APIs
-- AWS & Terraform fundamentals
-- Linux usage
-- Backend learning experiments
-
-These give me **engineering thinking + automation mindset** in security.
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FanoyG&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FanoyG&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanoyG&layout=compact&theme=radical" />
+    
+  <img src="https://streak-stats.demolab.com?user=FanoyG&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF9900&currStreakLabel=6366F1" height="165"/>
 </p>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FanoyG&theme=tokyo-night&hide_border=true&area=true&color=6366F1&line=6366F1&point=FF9900&bg_color=0D1117" width="100%"/>
+
+</div>
 
 ---
 
-## 🤝 Let’s Connect
+<div align="center">
 
-Open to:
-- Cybersecurity internships  
-- SOC Analyst trainee roles  
-- Collaboration on security projects  
-- Learning with the community  
+## 🏅 Certifications
 
-📧 Email: **adilkhan601782@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/adil-khan5/**  
+</div>
+
+| 🏆 Certification | 🏢 Issuer | 📅 Year |
+|:---|:---|:---:|
+| ☁️ Oracle Cloud Infrastructure Foundations | Oracle | 2025 |
+| 🐍 Python 3 Programming + Intermediate | Codecademy | 2024 |
+| 🛡️ Cybersecurity Essentials | LetsDefend | 2025 |
+| ☁️ AWS Educate — Security · IAM · VPC · S3 · Database + more | AWS | 2024–25 |
 
 ---
 
-<p align="center">
-✨ Doing > Reading. Breaking → Fixing → Understanding. This journey has just begun. ✨
-</p>
+<div align="center">
+
+## 🎯 Right Now
+
+</div>
+
+```bash
+$ adil --status
+
+  Currently building  →  AWS Cost Explorer Tool (shipping soon 🔥)
+  Currently learning  →  React · TypeScript · Full Stack with FastAPI
+  Open to             →  Remote roles · Freelance · Interesting problems
+  Strength            →  Debugging, problem-solving, systems thinking
+```
+
+---
+
+<div align="center">
+
+## 🤝 Let's Build Something
+
+If you have a cloud problem, a product that needs building, or a role where someone who
+**thinks-then-ships** is more valuable than someone who **memorizes-then-freezes** —
+
+**let's talk.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-khan-cloud/)
+[![Gmail](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adilkhan601782@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://fanoyg.github.io)
+
+<br/>
+
+---
+
+*"I don't memorize solutions. I find them — then make sure the problem can't come back."*
+
+</div>
